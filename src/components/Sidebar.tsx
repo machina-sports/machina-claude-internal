@@ -161,7 +161,7 @@ export function Sidebar() {
         {/* Footer */}
         <div className="px-4 py-3 border-t border-zinc-800 text-xs text-zinc-600">
           Internal docs - Machina Sports <br />
-          <a href="https://github.com/pinheporto" className="text-zinc-400 hover:text-zinc-200">Developed by Mateus Pinheiro</a>
+          <a href="https://github.com/pinhepo" className="text-zinc-400 hover:text-zinc-200">Developed by Mateus Pinheiro</a>
         </div>
       </aside>
     </>
